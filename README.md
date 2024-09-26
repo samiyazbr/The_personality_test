@@ -4,5 +4,5 @@ This is my final project for react course by codedex
 
 ### How to run
 
-> npm install /
+> npm install \
 > npm run dev
